@@ -1,8 +1,8 @@
-# Description
+## Description
 
 (Please include a summary of the change.)
 
-# Change Type
+## Change Type
 
 Please select option(s) that are relevant.
 
@@ -11,7 +11,7 @@ Please select option(s) that are relevant.
 - [ ] Breaking Change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] Only Adding/Updating Documentation
 
-# Checklist
+## Checklist
 
 All the items need to be checked.
 
@@ -24,7 +24,7 @@ All the items need to be checked.
 
 - [ ] ✴️ Postman endpoint added/updated
 
-# MERGE ready
+## MERGE ready
 
 All the items need to be checked.
 
